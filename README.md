@@ -37,6 +37,6 @@ Pedimos que trabalhe sozinho e não divulgue o resultado na internet.
 
 Hospede o resultado no seu github pessoal e nos envie o link.
 
-### # Importante: Veremos a evolução do seu código através seus commits. Seja claro e coerente em cada commit.
+### # Importante: Veremos a evolução do seu código através dos seus commits. Seja claro e coerente em cada commit.
 
 ### # Importante 2: O prazo de entrega será enviado por e-mail. Entregar antes do prazo não é criterio de desempate entre candidatos. Utilize seu tempo com consciência, faça com qualidade!
